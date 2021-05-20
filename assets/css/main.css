@@ -1,0 +1,17 @@
+.icons-list {
+   display: flex;
+   list-style: none;
+}
+
+.icons-list-item {
+   padding: 5px;
+}
+
+.nav-list {
+   display: flex;
+   list-style: none;
+}
+
+.nav-list-item {
+   padding: 5px;
+}
