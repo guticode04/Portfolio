@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .icons-list {
    display: flex;
    list-style: none;
@@ -5,6 +11,18 @@
 
 .icons-list-item {
    padding: 5px;
+}
+
+.logo {
+   text-decoration: none;
+   padding: 5px;
+}
+
+#navbar {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0.5rem 1rem;
 }
 
 .nav-list {
